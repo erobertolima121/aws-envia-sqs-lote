@@ -1,0 +1,1 @@
+# aws-envia-sqs-lote
