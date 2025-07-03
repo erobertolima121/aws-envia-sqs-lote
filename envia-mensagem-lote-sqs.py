@@ -2,9 +2,9 @@ import boto3
 import time
 
 # Configurações
-queue_url = 'https://sqs.sa-east-1.amazonaws.com/073680586857/sqs-envio-msg-lote'
-aws_access_key_id = 'AKIARCJ5URBUYLCMD2HM'
-aws_secret_access_key = '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'
+queue_url = 'sua-fila'
+aws_access_key_id = 'aws_access_key_id'
+aws_secret_access_key = 'aws_secret_access_key'
 region_name = 'sa-east-1'
 
 # Inicializa o cliente SQS
